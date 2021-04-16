@@ -1,0 +1,9 @@
+html {
+	width: 600px;
+	height: 450px;
+}
+
+html, body {
+	font-family: Lato, sans-serif;
+	margin: 0px;
+}
