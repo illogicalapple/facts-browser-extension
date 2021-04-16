@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Facts",
+	"version": "1.2",
+	"description": "Shows you funny facts from: https://illogicalapple.github.io/completely-true-facts",
+	"icons": {
+		"128": "apple.png"
+	},
+	"browser_action": {
+		"default_icon": "apple.png",
+		"default_title": "Facts",
+		"default_popup": "popup.html"
+	}
+}
